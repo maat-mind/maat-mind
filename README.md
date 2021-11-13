@@ -18,7 +18,7 @@ I'm a junior developer working full time in web development and devOps, I'm 20 y
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on   
+- 🔭 I’m currently working on a economic area company
   
 
 - 🌱 I’m currently learning Python and Google Cloud  
