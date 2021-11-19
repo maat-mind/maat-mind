@@ -22,9 +22,6 @@ I'm a junior developer working full time in web development and devOps, I'm 20 y
   
 
 - 🌱 I’m currently learning Python and Google Cloud  
-  
-
-- ⚡ Fun fact: half of the people who know me say I talk too much, the other half say I talk too little  
 
 
 </td><td valign="top" width="50%">
