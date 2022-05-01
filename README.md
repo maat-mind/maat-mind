@@ -9,7 +9,7 @@
 
 
 ### Glad to see you here!  
-I'm a junior developer working full time in web development and devOps, I'm 20 years old and in the process of learning to help the world I live in a little bit every day.  
+I'm a junior developer studying web development and devOps, I'm 21 years old and in the process of learning to help the world I live in a little bit every day.  
   
 
 <br/>  
@@ -18,10 +18,10 @@ I'm a junior developer working full time in web development and devOps, I'm 20 y
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working in a company in the economic area
+- 🔭 I’m currently studyig at platzi.com and theodinproject.com
   
 
-- 🌱 I’m currently learning Python and Google Cloud  
+- 🌱 I’m currently learning Front End development
 
 
 </td><td valign="top" width="50%">
