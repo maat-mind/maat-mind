@@ -19,7 +19,7 @@ Profile pic from <a href="https://picrew.me/image_maker/333657" target="_blank">
 <br/>  
 
 
-## Rapidfire  
+## Present, Languages & Tools  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 Now I study at platzi.com and theodinproject.com
@@ -37,21 +37,12 @@ Profile pic from <a href="https://picrew.me/image_maker/333657" target="_blank">
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
+  <br/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
@@ -66,36 +57,32 @@ Profile pic from <a href="https://picrew.me/image_maker/333657" target="_blank">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-
+<br/>
+</div>  
 </div>  
 
-<br/>  
+
+</td></tr></table>  
+
+<br/> 
 
 
 ## Github Stats  
 <table><tr><td align="top" width="50%">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maat-mind&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maat-mind&show_icons=true&theme=dark)
 
 </td><td align="top" width="50%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maat-mind&layout=compact&hide=powershell,python,batchfile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maat-mind&layout=compact&hide=powershell,python,batchfile&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </td></tr>
 </table>  
+ 
 
 <br/>  
 
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
+<br/>
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
