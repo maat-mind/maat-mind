@@ -11,7 +11,7 @@
 
 
 ### Glad to see you here!  
-I am a junior developer studying web development and devOps, I am in the process of learning to help the world I live in a little bit every day with relevant solutions that scale over time.
+I am a junior developer studying web development and devOps, I am in the process of learning to help the world a little bit every day with relevant solutions that scale over time.
 
 Profile pic from <a href="https://picrew.me/image_maker/333657" target="_blank">here.</a>
   
