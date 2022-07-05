@@ -11,7 +11,7 @@
 
 
 ### Glad to see you here!  
-I am a junior developer studying web development and devOps, I am in the process of learning to help the world a little bit every day with relevant solutions that scale over time.
+I am a junior developer with two years of experience studying full stack web development with javascript, I am in this process to help the world a little bit every day with relevant solutions that scale over time.
 
 Profile pic from <a href="https://picrew.me/image_maker/333657" target="_blank">here.</a>
   
@@ -22,10 +22,10 @@ Profile pic from <a href="https://picrew.me/image_maker/333657" target="_blank">
 ## Present, Languages & Tools  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 Now I study at platzi.com and theodinproject.com
+- 🔭 Now I study at [soyhenry.com](https://www.soyhenry.com/webfullstack) and [theodinproject.com](https://www.theodinproject.com/paths/full-stack-javascript?)
   
 
-- 🌱 I’m currently learning Front End development
+- 🌱 I’m currently learning Full Stack development
   
   
 - 🐱‍👤 At the time I am searching for a job in tech
