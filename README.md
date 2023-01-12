@@ -63,18 +63,3 @@ Profile pic from <a href="https://picrew.me/image_maker/333657" target="_blank">
 
 
 </td></tr></table>  
-
-<br/> 
-
-
-## Github Stats  
-<table><tr><td align="top" width="50%">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maat-mind&show_icons=true&theme=dark)
-
-</td><td align="top" width="50%">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maat-mind&layout=compact&hide=powershell,python,nunjucks,batchfile&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-</td></tr>
-</table> 
