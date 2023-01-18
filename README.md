@@ -1,5 +1,8 @@
 ## Hey 👋, I'm Oscar Bernal!  
   
+<h3 align="left">Connect with me:</h3>
+
+- 📫 Reach me **odbg2013@gmail.com**
 
 <a href="https://github.com/maat-mind" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -10,8 +13,9 @@
 
 
 
+
 ### Glad to see you here!  
-I am a junior developer with two years of experience studying full stack web development with javascript, I am in this process to help the world a little bit every day with relevant solutions that scale over time.
+I am a Full Stack developer with two years of experience studying full stack web development with javascript, I am in this process to help the world a little bit every day with relevant solutions that scale over time.
 
 Profile pic from <a href="https://picrew.me/image_maker/333657" target="_blank">here.</a>
   
@@ -25,7 +29,7 @@ Profile pic from <a href="https://picrew.me/image_maker/333657" target="_blank">
 - 🔭 Now I study at [soyhenry.com](https://www.soyhenry.com/webfullstack) and [theodinproject.com](https://www.theodinproject.com/paths/full-stack-javascript?)
   
 
-- 🌱 I’m currently learning Full Stack development
+- 🌱 I’m currently working on Full Stack projects
   
   
 - 🐱‍👤 At the time I am searching for a job in tech
