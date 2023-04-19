@@ -26,7 +26,7 @@ Profile pic from <a href="https://picrew.me/image_maker/333657" target="_blank">
 ## Present, Languages & Tools  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 Now I study at [soyhenry.com](https://www.soyhenry.com/webfullstack) and [theodinproject.com](https://www.theodinproject.com/paths/full-stack-javascript?)
+- 🔭 Now I'm working as a Junior Developer
   
 
 - 🌱 I’m currently working on Full Stack projects
