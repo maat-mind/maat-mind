@@ -26,16 +26,14 @@ Profile pic from <a href="https://picrew.me/image_maker/333657" target="_blank">
 ## Present, Languages & Tools  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 Now I'm working as a Junior Developer
   
-
-- 🌱 I’m currently working on Full Stack projects
+- 🌱 I’m keep on working on my skillset
   
   
-- 🐱‍👤 At the time I am searching for a job in tech
+- 🐱‍👤 Now I'm working as a Junior Developer
   
   
-- 🔗 I am interested in solidity, web 3 and blockchain as a disruptive technology.
+- 🔗 I am interested in technology that allows me to achieve transcendental goals in community.
 
 
 </td><td valign="top" width="50%">
