@@ -17,7 +17,7 @@
 
 
 ### Glad to see you here!  
-I am a Full Stack developer with two years of experience studying full stack web development with javascript, I am in this process to help the world a little bit every day with relevant solutions that scale over time.
+I am a full stack developer with a passion for building scalable solutions that make a positive impact. With two years of experience in full stack web development with JavaScript, I'm using my skills to help make the world a better place, one line of code at a time.
 
 Profile pic from <a href="https://picrew.me/image_maker/333657" target="_blank">here.</a>
   
