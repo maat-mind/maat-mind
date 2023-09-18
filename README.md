@@ -32,7 +32,7 @@ Profile pic from <a href="https://picrew.me/image_maker/333657" target="_blank">
 - 🌱 I’m keep on working on my skillset
   
   
-- 🐱‍👤 Now I'm working as a FullStack Developer full-time
+- 🐱‍👤 I am now looking for a position as a web developer in js or php.
   
   
 - 🔗 I am interested in technology that allows me to achieve transcendental goals in community.
